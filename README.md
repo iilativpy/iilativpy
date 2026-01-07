@@ -37,9 +37,8 @@ I am leveraging my enterprise experience to deliver top-tier Python solutions:
 ---
 
 ### 📊 GitHub Activity
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iilativpy&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iilativpy&layout=compact&theme=tokyonight&hide=html,css)
+![GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=iilativpy&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=iilativpy&layout=compact&theme=tokyonight&hide=html,css)
 
 ---
 
