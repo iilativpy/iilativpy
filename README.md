@@ -1,45 +1,51 @@
 # Hi there, I'm Vitalii 👋
-### Solution Architect | Senior Java Expert | Python Automation Enthusiast
+### Senior Software Engineer | Python & Automation Specialist
 
-With over **10 years of experience** in the IT industry, I've built a career around complex E-commerce ecosystems and financial systems. Currently, I am leveraging my deep architectural background to master **Python**, focusing on **QA Automation**, **Web3**, and **AI integrations**.
-
----
-
-### 🚀 My Current Focus
-I am transitioning my 10+ years of engineering mindset into the **Python ecosystem**. My goal is to build high-quality automation frameworks and backend solutions using:
-- **Python & Pytest** for robust QA Automation.
-- **FastAPI / Django** for high-performance microservices.
-- **Web3.py** for blockchain-based projects (USDT/Crypto payments).
+With over **10 years of experience** in the IT industry, I bring a solid engineering foundation to every project. While my current focus is on building high-quality **Python solutions and Automation frameworks**, my extensive background allows me to act as a **Team Lead**, mentoring developers and managing delivery processes.
 
 ---
 
-### 🏆 Expertise & Experience
-- **SAP Commerce Cloud (Hybris):** 8 years of deep-dive development (v5.2 to 2211). CCv2 expert.
-- **E-commerce Specialist:** Full-cycle B2B/B2C, SmartEdit, WCMS, and complex integrations (Paypal, Barclaycard, etc.).
-- **Leadership:** Former Dev Team Lead, Solution Architect, and Resource Manager.
-- **Engineering Excellence:** Clean Code, SOLID, Design Patterns, and Mentoring.
+### 🚀 My Current Focus: Python & Automation
+I am leveraging my enterprise experience to deliver top-tier Python solutions:
+- **Python Development:** Writing clean, scalable code for backend services and automation scripts.
+- **QA Automation:** Designing end-to-end testing frameworks using **Pytest**, **Playwright**, and **Selenium**.
+- **Web3 & Crypto:** Implementation of blockchain interactions (USDT/Token tracking) using **Web3.py**.
+- **AI Integration:** Experience in integrating AI assistants into modern software ecosystems.
+
+---
+
+### 💼 Leadership & Engineering
+- **Team Leadership:** Proven ability to lead development teams, manage teamwork, and foster ownership.
+- **Mentoring:** Experienced technical interviewer and mentor; former SAP Commerce trainer.
+- **Engineering Principles:** Deep knowledge of SOLID, Design Patterns, and Clean Code.
+- **Full-Cycle Delivery:** Proficient in Agile/Scrum, CI/CD (Jenkins, Git), and customer communication.
+
+---
+
+### 🏆 Technical Background
+- **10+ Years in IT:** 8 years in E-commerce (SAP Commerce Cloud expert) and 3 years in the Financial domain.
+- **Integrations:** Extensive hands-on experience with payment providers (Paypal, Barclaycard, etc.) and AI tools.
+- **Expertise:** B2B/B2C, Web Services, Fulfillment, and complex third-party system integrations.
 
 ---
 
 ### 🛠 Tech Stack
-- **Languages:** Java (Expert), Python (Advanced/Learning), SQL.
-- **Frameworks:** Spring Core, Spring Boot, Pytest, Playwright, Selenium.
-- **E-Commerce:** SAP Commerce Cloud (Hybris), B2B/B2C Accelerators.
-- **DevOps:** Jenkins, Git, Docker, CI/CD pipelines.
-- **Specialty:** Third-party integrations (Payment Gateways, AI Assistants).
+- **Primary:** Python (Pytest, Playwright, FastAPI), Java (Spring Boot).
+- **Tools:** Docker, Jenkins, Git, AWS, SQL.
+- **Platforms:** SAP Commerce Cloud (Hybris) 2211/CCv2.
 
 ---
 
-### 📊 Stats & Activity
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=dn250790kva&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dn250790kva&layout=compact&theme=tokyonight)
+### 📊 GitHub Activity
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=iilativpy&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iilativpy&layout=compact&theme=tokyonight)
 
 ---
 
-### 📫 Let's Connect
-- **Looking for:** Python Automation projects, Web3 opportunities, or Architect-level consulting.
+### 📫 Contact Me
+- **Looking for:** Python/Automation roles, Team Lead opportunities
 - **Location:** Based in Poland 🇵🇱
-- **Interests:** AI Integration, Blockchain, and building scalable software.
+- **Focus:** Building better software with a strong emphasis on customer satisfaction.
 
 ---
-*"My strength is a focus on customer satisfaction and a strong will to build better software, regardless of the language."*
+*"10 years of experience. Engineering mindset. Leadership ready."*
