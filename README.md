@@ -1,5 +1,5 @@
 # Hi there, I'm Vitalii 👋
-### Senior Software Engineer | Python & Automation Specialist
+### Senior Software Engineer | Full Stack Specialist
 
 With over **10 years of experience** in the IT industry, I bring a solid engineering foundation to every project. While my current focus is on building high-quality **Python solutions and Automation frameworks**, my extensive background allows me to act as a **Team Lead**, mentoring developers and managing delivery processes.
 
@@ -30,7 +30,7 @@ I am leveraging my enterprise experience to deliver top-tier Python solutions:
 ---
 
 ### 🛠 Tech Stack
-- **Primary:** Python (Pytest, Playwright, FastAPI), Java (Spring Boot).
+- **Primary:** SAP e-commerce, Java (Spring Boot), Python (Pytest, Playwright, FastAPI)
 - **Tools:** Docker, Jenkins, Git, AWS, SQL.
 - **Platforms:** SAP Commerce Cloud (Hybris) 2211/CCv2.
 
